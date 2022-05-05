@@ -16,5 +16,4 @@
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=mohammad-ashrafi2020&theme=react&show_icons=true&include_all_commits=true" />
 </p>
----
-[![](https://visitcount.itsvg.in/api?id=Daniyal2224&icon=7&color=1)](https://visitcount.itsvg.in)
+
